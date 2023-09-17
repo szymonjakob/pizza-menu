@@ -14,7 +14,7 @@ const pizzaData = [
     name: "Pizza Margherita",
     ingredients: "Tomato and mozarella",
     price: 10,
-    photoName: "pizzas/margherita.jpg",
+    photoName: "./pizzas/margherita.jpg",
     soldOut: false,
   },
   {
